@@ -48,6 +48,7 @@ function App() {
               background: viewMode === 'entity' ? 'linear-gradient(to right, #06b6d4, #14b8a6)' : 'transparent',
             }}
           >
+          
             <Database size={18} />
             Entity
           </button>
